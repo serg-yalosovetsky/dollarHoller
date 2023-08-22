@@ -2,4 +2,9 @@
 	import '../app.css';
 </script>
 
-<slot />
+<div class="bg-red-500 p-6">
+	
+	<slot />
+
+</div>
+

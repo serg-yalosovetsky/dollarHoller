@@ -1,7 +1,9 @@
+<script lang="ts">
+	import { format_me } from '$utils/FormatText.ts';
+
+</script>
+
 <h1 class=" text-9xl flex font-bold underline font-handwriting ">Hello world!</h1>
 
-<style lang="postcss">
-	:global(html) {
-		background-color: theme(colors.gray.100);
-	}
-</style>
+
+{format_me('hello world')}

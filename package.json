@@ -33,6 +33,8 @@
 	"type": "module",
 	"dependencies": {
 		"prettier-plugin-svelte": "^3.0.3",
-		"svelte-eslint-parser": "^0.32.2"
+		"svelte-eslint-parser": "^0.32.2",
+		"websocket": "^1.0.34",
+		"yarn": "^1.22.19"
 	}
 }
