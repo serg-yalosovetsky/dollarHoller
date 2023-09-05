@@ -1,9 +1,4 @@
 <script lang="ts">
-	import { format_me } from '$utils/FormatText.ts';
-
 </script>
 
-<h1 class=" text-9xl flex font-bold underline font-handwriting ">Hello world!</h1>
-
-
-{format_me('hello world')}
+<h1 class=" flex font-handwriting text-9xl font-bold underline">Hello world!</h1>
